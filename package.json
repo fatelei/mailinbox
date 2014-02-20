@@ -1,0 +1,15 @@
+{
+	"name": "mailinbox",
+	"version": "1.0.0",
+	"description": "used for check email in mailbox",
+	"author": {
+		"name": "王磊",
+		"email": "fatelei@gmail.com",
+		"url": "https://github.com/fatelei"
+	},
+	"dependencies": {
+		"mailparser": "*",
+		"poplib": "*"
+	},
+	"main": "main.js"
+}
